@@ -1,10 +1,11 @@
+package ch.bbw.ls.motogp;
+
+import java.util.Date;
+
 /*
 @Author Liam Simcic
 @Version 27.10.2020
  */
-package ch.bbw.ls.motogp;
-
-import java.util.Date;
 
 public class Driver {
 
